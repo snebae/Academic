@@ -13,3 +13,7 @@
 * [Database Concepts](block-2/database-concepts.md)
 * [Entity-Relationship Model](block-2/entity-relationship-model.md)
 * [Enhanced Entity-Relationship Model](block-2/enhanced-entity-relationship-model.md)
+
+## Revision
+
+* [Tips and Tricks/Things to Remember](revision/tips-and-tricks-things-to-remember.md)
