@@ -8,7 +8,8 @@
 * [Joins](block-1/joins.md)
 * [Programming SQL](block-1/programming-sql.md)
 
-## Group 1
+## Block 2
 
-* [Database Concepts](group-1/database-concepts.md)
-* [Entity-Relationship Model](group-1/entity-relationship-model.md)
+* [Database Concepts](block-2/database-concepts.md)
+* [Entity-Relationship Model](block-2/entity-relationship-model.md)
+* [Enhanced Entity-Relationship Model](block-2/enhanced-entity-relationship-model.md)
