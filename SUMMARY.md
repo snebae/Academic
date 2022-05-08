@@ -11,3 +11,4 @@
 ## Group 1
 
 * [Database Concepts](group-1/database-concepts.md)
+* [Entity-Relationship Model](group-1/entity-relationship-model.md)
