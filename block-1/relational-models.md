@@ -1,4 +1,4 @@
-# Block 1 - Relational Models
+# Relational Models
 
 Titles of slides for research:
 
