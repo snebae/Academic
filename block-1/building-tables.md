@@ -1,4 +1,4 @@
-# Day 2 - Building Tables
+# Building Tables
 
 Titles of slides for research:
 

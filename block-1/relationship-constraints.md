@@ -1,4 +1,4 @@
-# Day 3 - Relationships Constraints
+# Relationship Constraints
 
 Titles of slides for research:
 

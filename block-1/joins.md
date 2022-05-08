@@ -1,4 +1,4 @@
-# Day 4 - Joins
+# Joins
 
 Titles of slides for research:
 

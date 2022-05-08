@@ -1,4 +1,4 @@
-# Day 5 - Programming SQL
+# Programming SQL
 
 Titles of slides and for research:
 
